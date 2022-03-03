@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin: 1px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+  background-color: rgb(243, 153, 102);
+  color: white;
+  font-size: 15px;
+  font-family: 'Cairo', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  letter-spacing: 0.2em;
+  line-height: 30px;
+}
+
+article {
+  max-width: 850px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.author-details {
+  color: rgb(91, 105, 107);
+  font-size: 14px;
+  line-height: 18px;
+}
+
+h1 {
+  font-size: 40px;
+  letter-spacing: 0.1em;
+  line-height: 58px;
+}
+
+.para{
+  padding-top: 20px;
+  margin-right: 150px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.para2{
+  padding-top: 20px;
+  margin-right: 150px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.para3{
+  padding-top: 20px;
+  margin-right: 150px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.socialicon{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: small;
+}
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  margin-left: 40px;
+  padding-top: 5px;
+}
+
+.para4{
+  padding-top: 20px;
+  margin-right: 150px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.youtubelink{
+  padding: 30px;
+
+}
+footer{
+  background-color: hsl(70, 14%, 91%);
+  padding: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-right: 400px;
+  margin-bottom: 10px;
+}
