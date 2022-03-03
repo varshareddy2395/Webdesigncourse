@@ -10,4 +10,5 @@ table{
 th,td,tr{
     border-width: 10px;
     border: 20px;
-}
+    border-radius: 10px;
+} 
